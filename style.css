@@ -7,3 +7,15 @@ body {
 p, li, h2 {
     font-family: monospace;
 }
+#nome {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.softSkills {
+    font-size: 110%;
+    text-align: center;
+}
+.tecnicas {
+    font-size: 130%;
+    text-align: center;
+}
